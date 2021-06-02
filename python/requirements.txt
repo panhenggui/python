@@ -24,7 +24,7 @@ strict-rfc3339==0.7
 swagger-spec-validator==2.4.3
 typing==3.6.6
 typing-extensions==3.7.2
-urllib3==1.24.1
+urllib3==1.26.5
 webcolors==1.8.1
 xlrd==1.2.0
 xlutils==2.0.0
